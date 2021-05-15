@@ -1,0 +1,25 @@
+name: beiersdorf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4
+  - jupyterlab
+  - matplotlib
+  - pillow
+  - python=3.9
+  - requests
+  - wordcloud
+  - numpy
+  - pandas
+  - seaborn
+  - holoviews
+  - fire
+  - xlwt
+  - openpyxl
+  - xlrd
+  - pip
+  - pip:
+    - google_images_download
+
+
