@@ -22,6 +22,6 @@ After the installation finished, please activate your virtual environment by typ
 
 If you encounter any problems please visit the [conda documentation](https://conda.io/docs/user-guide/tasks/manage-environments.html#). 
 
-> Alternativey you may create an interactive remote virtual environment using [binder](https://mybinder.org/). Click on the button _launch binder_ below.
+> Alternatively you may create an interactive remote virtual environment using [binder](https://mybinder.org/). Click on the button _launch binder_ below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hello-world-academy/beiersdorf/master?urlpath=lab/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hello-world-academy/beiersdorf-remote/day1?urlpath=lab/)
