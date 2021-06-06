@@ -7,7 +7,7 @@ def load_jupyter_server_extension(nbapp):
         [
             "streamlit",
             "run",
-            "06_dashboards_are_fun/test.py",
+            "06_dashboards_are_fun/src/test.py",
             "--browser.serverAddress=0.0.0.0",
             "--server.enableCORS=False",
         ]
