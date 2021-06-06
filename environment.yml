@@ -9,4 +9,6 @@ dependencies:
   - pandas
   - pip:
     - streamlit
+    - jupyter-server-proxy
+    - nbserverproxy
 
