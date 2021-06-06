@@ -7,6 +7,6 @@ dependencies:
   - matplotlib
   - python=3.9
   - pandas
-   - pip:
-     - streamlit
+  - pip:
+    - streamlit
 
