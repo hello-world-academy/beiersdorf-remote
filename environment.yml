@@ -3,23 +3,23 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - beautifulsoup4
+#  - beautifulsoup4
   - jupyterlab
   - matplotlib
-  - pillow
+#  - pillow
   - python=3.9
-  - requests
-  - wordcloud
-  - numpy
+#  - requests
+#  - wordcloud
+#  - numpy
   - pandas
-  - seaborn
-  - holoviews
-  - fire
-  - xlwt
-  - openpyxl
-  - xlrd
-  - pip
-  - pip:
-    - google_images_download
-
+#  - seaborn
+#  - holoviews
+#  - fire
+#  - xlwt
+#  - openpyxl
+#  - xlrd
+#  - pip
+    - pip:
+#    - google_images_download
+     - streamlit
 
