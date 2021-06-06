@@ -19,7 +19,7 @@ dependencies:
 #  - openpyxl
 #  - xlrd
 #  - pip
-    - pip:
+   - pip:
 #    - google_images_download
      - streamlit
 
