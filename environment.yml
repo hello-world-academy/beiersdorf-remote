@@ -1,4 +1,4 @@
-name: beiersdorf
+name: beiersdorf-remote
 channels:
   - conda-forge
   - defaults
@@ -7,8 +7,13 @@ dependencies:
   - matplotlib
   - python=3.9
   - pandas
-  - jupyter-server-proxy
-  - nbserverproxy
+  - openpyxl
+  - seaborn
+  - ipywidgets
+  - requests
+  - beautifulsoup4
+  - wordcloud
+  - pip
   - pip:
-    - streamlit
+    - pandas-profiling
 
