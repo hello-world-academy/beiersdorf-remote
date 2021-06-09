@@ -1,3 +1,0 @@
-streamlit
-jupyter-server-proxy
-nbserverproxy
