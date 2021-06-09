@@ -25,3 +25,6 @@ If you encounter any problems please visit the [conda documentation](https://con
 > Alternativey you may create an interactive remote virtual environment using [binder](https://mybinder.org/). Click on the button _launch binder_ below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hello-world-academy/beiersdorf-remote/main?urlpath=lab/)
+
+
+
