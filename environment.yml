@@ -1,25 +1,20 @@
-name: beiersdorf
+name: beiersdorf-remote
 channels:
   - conda-forge
   - defaults
 dependencies:
-#  - beautifulsoup4
   - jupyterlab
   - matplotlib
-#  - pillow
   - python=3.9
-#  - requests
-#  - wordcloud
-#  - numpy
   - pandas
-#  - seaborn
-#  - holoviews
-#  - fire
-#  - xlwt
-#  - openpyxl
-#  - xlrd
-#  - pip
-    - pip:
-#    - google_images_download
-     - streamlit
+  - openpyxl
+  - seaborn
+  - ipywidgets
+  - requests
+  - beautifulsoup4
+  - wordcloud
+  - pip
+  - scikit-learn
+  - pip:
+    - pandas-profiling
 

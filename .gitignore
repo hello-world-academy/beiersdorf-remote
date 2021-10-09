@@ -3,7 +3,7 @@
 .ipynb_checkpoints/
 .idea/
 .vscode/
-01_getting_started_with_python/data/interim/
-02_excel_is_dead_long_live_pandas/figures/
-03_automate_the_boring_stuff/data/images/beiersdorf
-*Drugs*
+01_getting_started_with_python/data/interim/*.txt
+02_excel_is_dead_long_live_pandas/figures/*.png
+04_[opt]_more-data-science/figures/*.png
+

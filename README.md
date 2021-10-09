@@ -18,10 +18,13 @@ into the command line.
 
 After the installation finished, please activate your virtual environment by typing 
 
-`conda activate beiersdorf`
+`conda activate beiersdorf-remote`
 
 If you encounter any problems please visit the [conda documentation](https://conda.io/docs/user-guide/tasks/manage-environments.html#). 
 
 > Alternativey you may create an interactive remote virtual environment using [binder](https://mybinder.org/). Click on the button _launch binder_ below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hello-world-academy/beiersdorf/main?urlpath=lab/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hello-world-academy/beiersdorf-remote/main?urlpath=lab/)
+
+
+
