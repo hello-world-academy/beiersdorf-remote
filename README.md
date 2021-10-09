@@ -2,7 +2,7 @@
 
 > Client: [Beiersdorf AG](https://www.beiersdorf.de/)   
 > Place: remote 
-> Date:  2021-05-27 and 2021-06-10   
+> Date:  2021-10-11 and 2021-10-21   
 > Time: 9am to 4pm  
 > Trainer: Annemieke Frank and Joachim Krois
 
